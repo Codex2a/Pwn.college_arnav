@@ -1,5 +1,5 @@
 # Challenge Name
-absolute path
+position thy self
 
 ## My solve
 **Flag:** `pwn.college{sxMo75yXkVMcDdSFUC4vZQSCkQI.QX1QTN0wyNzEzNzEzW}`
