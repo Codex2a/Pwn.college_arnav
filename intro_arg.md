@@ -16,7 +16,7 @@ pwn.college{oLfSdrE7-bS2gM1_arjaCZay_99.QX4YjM1wyNzEzNzEzW}
 None
 
 ## What I learned
-I learned about arguments
+I learned about arguments and about echo
 
 ## References 
 None
