@@ -1,5 +1,5 @@
 # Challenge Name
-Intro to arguments
+Intro to commands
 
 ## My solve
 **Flag:** `pwn.college{Qs8lVMUwkscC95Nr9xab6bvDBgv.QX3YjM1wyNzEzNzEzW}`
