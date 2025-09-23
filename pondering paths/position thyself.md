@@ -1,5 +1,5 @@
 # Challenge Name
-changing directory
+position thyself
 
 ## My solve
 **Flag:** `pwn.college{QaMH16b1NaGWwOghVurlM8FRtCR.QX2QTN0wyNzEzNzEzW}`
