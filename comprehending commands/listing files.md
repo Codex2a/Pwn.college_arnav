@@ -2,7 +2,7 @@
 listing files
 
 ## My solve
-**Flag:** `not found yet'
+**Flag:** `pwn.college{Mm_bLrWHmg2RpDS35FQ9zSucKPp.QX4IDO0wyNzEzNzEzW}'
 
 ```bash
 
