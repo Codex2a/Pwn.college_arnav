@@ -10,27 +10,27 @@ hacker@commands~listing-files:~$ ls
 f  w
 hacker@commands~listing-files:~$ cat f
 pwn.college{oD97X7Wl3REGYlSS7xXiDHwIFaK.QXzMDO0wyNzEzNzEzW}
-hacker@commands~listing-files:~$ cat w
-pwn.college{oD97X7Wl3REGYlSS7xXiDHwIFaK.QXzMDO0wyNzEzNzEzW}
-hacker@commands~listing-files:~$ /challenge/run
-bash: /challenge/run: No such file or directory
+
 hacker@commands~listing-files:~$ ls /challenge
-707-renamed-run-24661  DESCRIPTION.md
-hacker@commands~listing-files:~$ cat 707-renamed-run-24661
-cat: 707-renamed-run-24661: No such file or directory
-hacker@commands~listing-files:~$ cat 707
-cat: 707: No such file or directory
-hacker@commands~listing-files:~$ description.md
-bash: description.md: command not found
-hacker@commands~listing-files:~$ description
-bash: description: command not found
-hacker@commands~listing-files:~$ cat ls /challenge
-cat: ls: No such file or directory
-cat: /challenge: Is a directory
-hacker@commands~listing-files:~$
+1382-renamed-run-6860  DESCRIPTION.md
+hacker@commands~listing-files:~$ cd /challenge
+hacker@commands~listing-files:/challenge$ ls
+1382-renamed-run-6860  DESCRIPTION.md
+hacker@commands~listing-files:/challenge$ cat 1382-renamed-run-6860
+#!/opt/pwn.college/bash
+
+echo "Yahaha, you found me! Here is your flag:"
+cat /flag
+hacker@commands~listing-files:/challenge$ cat /flag
+cat: /flag: Permission denied
+hacker@commands~listing-files:/challenge$ cd ~
+hacker@commands~listing-files:~$ cat /flag
+cat: /flag: Permission denied
+
 ```
 ## Incorrect tangents I went on
 not understanding how to solve
+flag permission denied??
 
 ## What I learned
 nothing yet
