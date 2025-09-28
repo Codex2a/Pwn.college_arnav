@@ -2,9 +2,9 @@
 mixing globbing
 
 ## My solve
-**Flag:** `pwn.college{Y659VmFefLdsg3WVJGY2B5jwT16.QX1IDO0wyNzEzNzEzW}'
+**Flag:** `pwn.college{Y659VmFefLdsg3WVJGY2B5jwT16.QX1IDO0wyNzEzNzEzW}`
 
-'''
+```
 bash
 Connected!
 hacker@globbing~mixing-globs:/challenge/files$ /challenge/run file_[c*]
@@ -15,7 +15,8 @@ pwning). Instead, it expanded to:
 f_[c*]
 hacker@globbing~mixing-globs:/challenge/files$ /challenge/run [cep]*
 You got it! Here is your flag!
-pwn.college{Y659VmFefLdsg3WVJGY2B5jwT16.QX1IDO0wyNzEzNzEzW}'''
+pwn.college{Y659VmFefLdsg3WVJGY2B5jwT16.QX1IDO0wyNzEzNzEzW}
+```
 
 
 ## Incorrect tangents I went on
