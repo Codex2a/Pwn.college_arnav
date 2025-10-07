@@ -1,0 +1,19 @@
+# Challenge Name
+Deleting characters
+
+## My solve
+**Flag:** `pwn.college{gW2ML4VSImPldE5lOzzmxsyIP3T.0FNxEzNxwyNzEzNzEzW}`
+
+```bash
+hacker@data~deleting-characters:~$ /challenge/run | tr -d ^%
+Your character-stuffed flag:
+pwn.college{gW2ML4VSImPldE5lOzzmxsyIP3T.0FNxEzNxwyNzEzNzEzW}
+```
+## Incorrect tangents I went on
+None
+
+## What I learned
+How to delete all instances of a particular character
+
+## References 
+None
