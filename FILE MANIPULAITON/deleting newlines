@@ -1,0 +1,18 @@
+# Challenge Name
+Deleting newlines
+
+## My solve
+**Flag:** `pwn.college{YRph1ysGL7I-oWzTRm0U1xkAe3q.0VNxEzNxwyNzEzNzEzW}`
+
+```bash
+hacker@data~deleting-newlines:~$ /challenge/run | tr -d "\n"
+Your line-split flag: pwn.college{YRph1ysGL7I-oWzTRm0U1xkAe3q.0VNxEzNxwyNzEzNzEzW}
+```
+## Incorrect tangents I went on
+None
+
+## What I learned
+how to delete new lines
+
+## References 
+None
