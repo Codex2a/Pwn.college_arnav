@@ -1,0 +1,20 @@
+# Challenge Name
+Trnaslating characters
+
+## My solve
+**Flag:** ` pwn.college{spL1q5wlufPQnv6I5w_KKr9RqvM.01MxEzNxwyNzEzNzEzW}`
+
+```bash
+hacker@data~translating-characters:~$ /challenge/run | tr abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHI
+JKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+yOUR CASE-SWAPPED FLAG:
+ pwn.college{spL1q5wlufPQnv6I5w_KKr9RqvM.01MxEzNxwyNzEzNzEzW}
+```
+## Incorrect tangents I went on
+None
+
+## What I learned
+How to swap all characters in output of a command
+
+## References 
+None
